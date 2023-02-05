@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "it is a news letter web app",
   "main": "newsLetter.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node newsLetter.js",
     "dev": "nodemon newsLetter.js"
-
   },
   "author": "Rishi Sharma",
   "license": "ISC",

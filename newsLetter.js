@@ -2,7 +2,6 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const request = require("request");
 const https = require("https");
-const { options } = require("nodemon/lib/config");
 const { response } = require("express");
 
 const app = express();
